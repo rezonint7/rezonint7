@@ -4,8 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg0bHdnem9jMDdnOW1mOXF2N3RhazZwbjR6M2x1dzNlOHVicHJsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy-downsized-large.gif"/>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezonint7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezonint7&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 
 <div id="header" align="center">
